@@ -1,5 +1,7 @@
 # Chainer Notebooks
 
+[![GuardRails badge](https://badges.production.guardrails.io/shtakai/chainer-handson-1.svg)](https://www.guardrails.io)
+
 See here:
 https://github.com/mitmul/chainer-notebooks
 
